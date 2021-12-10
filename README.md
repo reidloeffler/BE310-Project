@@ -44,7 +44,7 @@ $ unzip covid19_data.csv.zip
 
 ## Hypothesis and Rationale
 
-*I hypothesize that race does affect the likelihood of an individual being Covid positive.*
+**I hypothesize that race does affect the likelihood of an individual being Covid positive.**
 
 - Possible underlying genetic/physiological differences
     - Immune responses were found to be varied following rubella vaccination, with individuals of African descent having significantly higher rubella-specific neutralizing antibody levels when compared to other individuals (Haralambieva IH, et al, 2014)
@@ -75,16 +75,16 @@ R was used to:
 
 
 <img src="Total.png"
-     alt="Total monthly cases"
-     style="float: left; margin-right: 10px;" />
+alt="Total monthly cases"
+style="float: left; margin-right: 10px;" />
 
-    *Total number positive cases per month*
+*Total number positive cases per month*
 
 <img src="by_race.png"
-     alt="Percentage of positive cases per month, grouped by race"
-     style="float: left; margin-right: 10px;" />
+alt="Percentage of positive cases per month, grouped by race"
+style="float: left; margin-right: 10px;" />
 
-     *Percentage of positive cases per month, grouped by race*
+*Percentage of positive cases per month, grouped by race*
      
 
 ---
